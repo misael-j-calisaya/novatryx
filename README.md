@@ -4,12 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/misaelcalisaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misaelcalisaya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/misael joel calisaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misael joel calisaya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/misael-joel-calisaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misael-joel-calisaya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21844145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21844145" height="30" width="40" /></a>
-<a href="https://fb.com/misael calisaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="misael calisaya" height="30" width="40" /></a>
-<a href="https://instagram.com/@misaelcali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@misaelcali" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/misael calisaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="misael calisaya" height="30" width="40" /></a>
-<a href="https://discord.gg/lekiuss#3240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lekiuss#3240" height="30" width="40" /></a>
+<a href="https://instagram.com/misaelcali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misaelcali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
